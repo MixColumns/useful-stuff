@@ -3,6 +3,8 @@ title: Home
 layout: home
 ---
 
+[https://mixcolumns.github.io/useful-stuff/](https://mixcolumns.github.io/useful-stuff/)
+
 # EN
 
 Welcome to my small knowledge base. I will try to use this repo to organize some useful stuff that i want to either look up again later or share with my friends. I am not sure yet how actively i will keep this repo up to date or if it will end up abondoned. Either case it is a fun project and i am excited to see how it will end up.
