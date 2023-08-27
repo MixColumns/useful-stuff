@@ -38,3 +38,5 @@ layout: default
 # Android
 * [F-Droid](https://f-droid.org/) - Free and Open Source Software (FOSS) applications for the Android platform
 
+# Video
+* [FFmpeg Explorer](https://ffmpeg.lav.io/) - explore FFmpeg filters
