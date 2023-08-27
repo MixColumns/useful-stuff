@@ -40,3 +40,7 @@ layout: default
 
 # Video
 * [FFmpeg Explorer](https://ffmpeg.lav.io/) - explore FFmpeg filters
+
+# Organize and Focus
+* [Pomofocus](https://pomofocus.io/) - A browser based pomodore timer
+* [Dendron](https://www.dendron.so/) - Organize knowledge in dendron for visual studio code
