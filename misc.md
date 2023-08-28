@@ -5,6 +5,7 @@ layout: default
 
 # OSINT
 * [SunCalc](https://www.suncalc.org) - Calculate shadows for a given time and place to compare with a given picture
+* [Internetrecherche 2.0](https://start.me/p/ek2p4x/internetrecherche-2-0) - Useful Ressources for OSINT research 
 
 # Security
 * [beautifier.io](https://beautifier.io/) - Tool to make obfuscated javascript quite readable. Works insanely good
