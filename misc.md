@@ -48,3 +48,6 @@ layout: default
 # Organize and Focus
 * [Pomofocus](https://pomofocus.io/) - A browser based pomodore timer
 * [Dendron](https://www.dendron.so/) - Organize knowledge in dendron for visual studio code
+
+# Mental Health
+* [10 ways to deal with breakup](https://thoughtcatalog.com/zaron-burnett-iii/2013/05/10-ways-to-deal-with-losing-the-one-person-you-want/) - Some nice tipps on how to overcome someone
