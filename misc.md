@@ -51,3 +51,7 @@ layout: default
 
 # Mental Health
 * [10 ways to deal with breakup](https://thoughtcatalog.com/zaron-burnett-iii/2013/05/10-ways-to-deal-with-losing-the-one-person-you-want/) - Some nice tipps on how to overcome someone
+* [unstoppable.me](https://unstoppable.me/accomplish-big-things/) - How to Accomplish Big Things, Even When You Feel Small 
+
+# Management
+* [smashcompany.com](http://www.smashcompany.com/business/one-on-one-meetings-are-underrated-whereas-group-meetings-waste-time) - One-on-one meetings are underrated, whereas group meetings waste time
