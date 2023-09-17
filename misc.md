@@ -52,7 +52,10 @@ layout: default
 
 # Mental Health
 * [10 ways to deal with breakup](https://thoughtcatalog.com/zaron-burnett-iii/2013/05/10-ways-to-deal-with-losing-the-one-person-you-want/) - Some nice tipps on how to overcome someone
-* [unstoppable.me](https://unstoppable.me/accomplish-big-things/) - How to Accomplish Big Things, Even When You Feel Small 
+* [unstoppable.me](https://unstoppable.me/accomplish-big-things/) - How to Accomplish Big Things, Even When You Feel Small
+* [tandfonline.com](https://www.tandfonline.com/doi/abs/10.1080/0309877X.2019.1702154) - The power of writing about procrastination: journaling as a tool for change
+* [cognitiontoday.com](https://cognitiontoday.com/examples-of-everyday-procrastination-mindsets-and-beliefs/) - Examples of everyday procrastination (mindsets and beliefs) 
+* [cognitiontoday.com](https://cognitiontoday.com/you-procrastinate-because-of-emotions-not-laziness-regulate-them-to-stop-procrastinating/) - You Procrastinate Because Of Emotions, Not Laziness. Regulate Them To Stop Procrastinating! 
 
 # Management
 * [smashcompany.com](http://www.smashcompany.com/business/one-on-one-meetings-are-underrated-whereas-group-meetings-waste-time) - One-on-one meetings are underrated, whereas group meetings waste time
