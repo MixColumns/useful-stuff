@@ -56,3 +56,6 @@ layout: default
 
 # Management
 * [smashcompany.com](http://www.smashcompany.com/business/one-on-one-meetings-are-underrated-whereas-group-meetings-waste-time) - One-on-one meetings are underrated, whereas group meetings waste time
+
+# Math
+* [Settheory.net](https://settheory.net/) - Introduction and explaination of Set Theory and Foundations of Mathematics
