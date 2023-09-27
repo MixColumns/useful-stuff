@@ -62,3 +62,6 @@ layout: default
 
 # Math
 * [Settheory.net](https://settheory.net/) - Introduction and explaination of Set Theory and Foundations of Mathematics
+ 
+# Learning
+* [academicresourcecenter.harvard.edu](https://academicresourcecenter.harvard.edu/learning-practices-backed-research) - Generally good learning tipps and strategies straight from harvard
