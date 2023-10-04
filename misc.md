@@ -17,6 +17,7 @@ layout: default
 
 # Finance
 * [PicClick](https://picclick.de/) - Search Ebay faster
+* [nav.al](https://nav.al/rich) - How to get rich - A collection of all my interviews about my ‘How to Get Rich’ 
 
 # Music
 * [Every Noise at Once](https://everynoise.com/) - Uses machine learning to map known genres and creates playlists for each genre and the most common artists of that genre. Preview listening and Spotify playlists available, great to find new music
