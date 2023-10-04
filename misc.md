@@ -63,6 +63,7 @@ layout: default
 
 # Math
 * [Settheory.net](https://settheory.net/) - Introduction and explaination of Set Theory and Foundations of Mathematics
+* [youtube.com](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Essence of linear algebra video series by 3Blue1Brown 
  
 # Learning
 * [academicresourcecenter.harvard.edu](https://academicresourcecenter.harvard.edu/learning-practices-backed-research) - Generally good learning tipps and strategies straight from harvard
