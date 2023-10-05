@@ -68,3 +68,6 @@ layout: default
  
 # Learning
 * [academicresourcecenter.harvard.edu](https://academicresourcecenter.harvard.edu/learning-practices-backed-research) - Generally good learning tipps and strategies straight from harvard
+
+# Elektrotechnik
+* [stefan-schenke.de](http://www.stefan-schenke.de/get/) - Grundlagen der Elektrotechnik: verschiedene Bücher kostenlos als PDF nach der Accounterstellung
