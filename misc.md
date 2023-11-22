@@ -7,7 +7,7 @@ layout: default
 * [SunCalc](https://www.suncalc.org) - Calculate shadows for a given time and place to compare with a given picture
 * [Internetrecherche 2.0](https://start.me/p/ek2p4x/internetrecherche-2-0) - Useful Ressources for OSINT research 
 
-# Security
+# Sicherheit
 * [beautifier.io](https://beautifier.io/) - Tool to make obfuscated javascript quite readable. Works insanely good
 * [SSL Test](https://www.ssllabs.com/ssltest/) - Tool to test the security of an SSL setup for a given website
 * [DNS dumpster](https://dnsdumpster.com/) - Discover hosts related to a domain
@@ -15,16 +15,16 @@ layout: default
 * [MX Toolbox](https://mxtoolbox.com/SuperTool.aspx) - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool
 * [Hardenize](https://www.hardenize.com/) - Automated Discovery and Monitoring of Your Entire Network Perimeter
 
-# Finance
+# Finanzen
 * [PicClick](https://picclick.de/) - Search Ebay faster
 * [nav.al](https://nav.al/rich) - How to get rich - A collection of all my interviews about my ‘How to Get Rich’ 
 
-# Music
+# Musik
 * [Every Noise at Once](https://everynoise.com/) - Uses machine learning to map known genres and creates playlists for each genre and the most common artists of that genre. Preview listening and Spotify playlists available, great to find new music
 * [Trancebase.fm](https://www.trancebase.fm/) - German webradio with nice shows and multiple senders like technobase housetime coretime or hardbase
 * [Radiorecord.ru](https://www.radiorecord.ru/) - Great russian webradio with lots of different genres, "Innocence" is really good
 
-# Sports
+# Sport
 * [YOGA für Anfänger - 20 Minuten Home Workout](https://www.youtube.com/watch?v=UErN1VLCXC0) - Good intro to Yoga
 
 # GameDev & Coding
@@ -35,6 +35,7 @@ layout: default
 * [C von A bis Z](https://openbook.rheinwerk-verlag.de/c_von_a_bis_z/000_c_vorwort_001.htm#mj764cb3fd439d3b95d1843e7c7d17f235) - Ebook to learn C
 
 # Office
+* [useplaintext.email](https://useplaintext.email/) - Use plaintext email
 * [diagrams.net](https://app.diagrams.net/) - Easy way to create Diagrams and Charts
 
 # Hosting
@@ -47,7 +48,7 @@ layout: default
 # Video
 * [FFmpeg Explorer](https://ffmpeg.lav.io/) - explore FFmpeg filters
 
-# Organize and Focus
+# Organisieren und Fokus
 * [Pomofocus](https://pomofocus.io/) - A browser based pomodore timer
 * [Dendron](https://www.dendron.so/) - Organize knowledge in dendron for visual studio code
 
@@ -61,12 +62,12 @@ layout: default
 # Management
 * [smashcompany.com](http://www.smashcompany.com/business/one-on-one-meetings-are-underrated-whereas-group-meetings-waste-time) - One-on-one meetings are underrated, whereas group meetings waste time
 
-# Math
+# Mathematik
 * [Settheory.net](https://settheory.net/) - Introduction and explaination of Set Theory and Foundations of Mathematics
 * [youtube.com](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Essence of linear algebra video series by 3Blue1Brown
 * [calculusmadeeasy.org](https://www.calculusmadeeasy.org/) - Calculus Made Easy is a book on calculus originally published in 1910 by Silvanus P. Thompson, considered a classic and elegant introduction to the subject.
  
-# Learning
+# Lernen
 * [academicresourcecenter.harvard.edu](https://academicresourcecenter.harvard.edu/learning-practices-backed-research) - Generally good learning tipps and strategies straight from harvard
 
 # Elektrotechnik
