@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+has_children: true
 ---
 
 [https://mixcolumns.github.io/useful-stuff/](https://mixcolumns.github.io/useful-stuff/)
