@@ -3,6 +3,7 @@ title: OSINT & ITS
 layout: default
 parent: Home
 nav_order: 2
+has_children: true
 ---
 
 # Übersicht
@@ -92,9 +93,6 @@ Hier kann man keine wirkliche einfache Zusammenfassung geben, jedoch darauf Hinw
 [//]: <> Online
 [//]: <> Lokal
 
-[//]: <> ## Twitter
-
-
 ## Weitere Ressourcen
 * [SunCalc](https://www.suncalc.org) - Calculate shadows for a given time and place to compare with a given picture
 * [Internetrecherche 2.0](https://start.me/p/ek2p4x/internetrecherche-2-0) - Useful Ressources for OSINT research 
@@ -105,4 +103,5 @@ Hier kann man keine wirkliche einfache Zusammenfassung geben, jedoch darauf Hinw
 * [MX Toolbox](https://mxtoolbox.com/SuperTool.aspx) - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool
 * [Hardenize](https://www.hardenize.com/) - Automated Discovery and Monitoring of Your Entire Network Perimeter
 * [OSINT Framework](https://osintframework.com/) - Different OSINT tools
-
+* [Platforms Hunting](https://cheatsheet.haax.fr/open-source-intelligence-osint/platforms-hunting/) - Some Plattform research stuff
+* [OSINT Chine](https://start.me/p/7kLY9R/osint-chine)
