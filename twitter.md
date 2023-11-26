@@ -116,6 +116,11 @@ Es kann zudem interessant sein die Entwicklung von Trends zu verfolgen.
 Mögliche Seiten dafür sind beispielsweise [https://trends24.in/germany/](https://trends24.in/germany/), die [Twitter Trends](https://twitter.com/i/trends) selbst oder auch Seiten wie [https://getdaytrends.com/de/germany/](https://getdaytrends.com/de/germany/) und [https://www.twitter-trending.com/germany/de](https://www.twitter-trending.com/germany/de).
 Entsprechend durch Auswahl auch für andere Länder verfügbar.
 
+### IP
+Auch hier ist es natürlich möglich eine eigene Website zu basteln die einen IP-logger eingebaut hat (im Grunde jeder Webhoster bei dem man auf die Logfiles zugreifen kann bietet dies von Haus aus).
+Wenn man jemanden den Link zusendet und dieser angeklickt wird, hat man, falls keine VPN genutzt wird die IP des Nutzers.
+Dies kann sowohl für die Geoinformationen als auch für Strafverfolgung interessant sein.
+
 ### Weiteres
 Alle Techniken die bei einer normalen Recherche zum Einsatz kommen funktionieren hier natürlich auch.
 Profilbilder rückwärts suchen oder verlinkte Seiten ansehen beispielsweise. 
