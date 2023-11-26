@@ -16,6 +16,9 @@ Currently the site is published on [GitHub Pages] using [Jekyll] with the [Just 
 
 # DE
 
+{: .warning }
+Vorsicht bei Links auf Absätze, da sich aktuell noch viel ändert. Selbst einzelne Seiten können sich bezüglich der URL noch oft ändern.
+
 Willkommen in meiner kleinen Wissensdatenbank. Ich werde versuchen, dieses Repo zu nutzen, um nützliche Dinge zu organisieren, die ich entweder später wieder nachschlagen oder mit meinen Freunden teilen möchte. Ich bin mir noch nicht sicher, wie aktiv ich dieses Repo auf dem Laufenden halten werde oder ob es am Ende aufgegeben wird. Auf jeden Fall ist es ein lustiges Projekt und ich bin gespannt, wie es sich entwickelt.
 
 Ich werde die meisten Dinge auf der Misc-Seite sammeln, bis ich genug Inhalt habe, um ein neues Layout mit Seiten und Unterseiten zu erstellen.

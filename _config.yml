@@ -23,3 +23,8 @@ aux_links:
 #callouts:
 #  highlight:
 #    color: yellow
+
+callouts:
+  warning:
+    title: Warning
+    color: red
