@@ -3,7 +3,7 @@ title: OSINT & ITS
 layout: default
 parent: Home
 nav_order: 2
-has_children: true
+#has_children: true
 ---
 
 # Übersicht
@@ -84,6 +84,16 @@ Die nötigen Sicherheitsmaßnahmen hängen sehr davon ab was man macht.
 Zum einen fällt viel in den Bereich IT-Sicherheit und Selbstschutz, beispielsweise keine unbekannten Downloads zu öffnen oder eine virtuelle Maschine dafür zu nutzen.
 Zum anderen fällt viel in den Bereich OPSEC (operational security) - welche Aktionen könnten bemerkt werden und könnten diese anschließend weitere Nachforschungen erschweren oder zu Gegenaktionen führen.
 Hier kann man keine wirkliche einfache Zusammenfassung geben, jedoch darauf Hinweisen diese beiden Punkte im Kopf zu behalten.
+
+## Metadaten
+Metadaten können sehr hilfreich sein. 
+Eine Analyse wann posts erstellt werden kann beispielsweise Rückschlüsse darauf zulassen, wann jemand normalerweise schläft.
+Mit dieser Information kann man beispielweise versuchen die Zeitzone herauszufinden.
+In Kombination mit Bildern kann man dann den Ort weiter eingrenzen, ebenso durch lokale Dialekte oder besonderheiten in der Sprache.
+Es lohnt sich immer auf solche Details zu schauen - welche weiteren Informationen bietet mir beispielsweise ein Post in sozialen Netzwerken?
+Das ganze kann man unter dem Begriff Geosocial Footprint zusammenfassen.
+Was man damit so alles anstellen kann wird unter anderem in diesem unterhaltsamen Video gezeigt:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-YpwsdRKt8Q?si=ypp74agD2GBg25oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [//]: <> ## Websites
 [//]: <> Hierfür greife ich unter anderem auf den Artikel [Into the Jungle: Best Practices for Open-Source Researchers](https://cset.georgetown.edu/article/into-the-jungle-best-practices-for-open-source-researchers/) von CSET zurück.

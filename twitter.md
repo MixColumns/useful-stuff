@@ -1,8 +1,9 @@
 ---
-title: Twitter / X
+title: Twitter | X
 layout: default
-parent: OSINT & ITS
-grand_parent: Home
+#parent: OSINT & ITS
+#grand_parent: Home
+parent: Home
 nav_order: 1
 ---
 
@@ -16,12 +17,6 @@ nav_order: 1
 {:toc}
 
 # Twitter
-
-## Sicherheit
-Anderen Nutzern ist unbekannt wonach man sucht oder welche Aktionen man durchführt.
-Sofern nicht mit anderen Tweets interagiert wird gibt es wenig zu beachten.
-Im Grunde kann man nach belieben Tweets suchen und analysieren, ohne dass jemand anderes es bemerkt.
-Bei verweisen auf externe Ressourcen sollte man jedoch vorsichtiger sein was beispielsweise Downloads angeht.
 
 ## Archivieren
 Je nachdem ob die Informationen nur zur weiteren Suche gespeichert oder beispielsweise zum Melden einer Straftat genutzt werden sollen gibt es unterschiedliche Ansprüche.
@@ -40,8 +35,14 @@ Die ID wird in der Adresszeile des Browser angezeigt. Um einen Tweet einzeln zu 
 - Die Plattform [Netzbeweis](https://www.netzbeweis.com/web/) kann dabei helfen Inhalte zu Sichern.
 Dafür die URL einfügen und die eigene Email angeben, dann kann ein Report mit Bildern und den wichtigen Informationen kurze Zeit später heruntergeladen werden.
 
-## Suchoperatoren
+### Videos herunterladen
+Mit [twdown.net](https://twdown.net/index.php) lassen sich einfach Videos aus einem Status herunterladen.
+
+## Suchen und Analysieren
+
+### Suchoperatoren
 Angelehnt an [A Guide To Twitter Search Operators: OSINT](https://roddytech.medium.com/a-guide-to-twitters-search-operators-osint-%EF%B8%8F-%EF%B8%8F-b617bb7c59a)
+Mit diesen hilfreichen Operatoren kann man besser nach Inhalten suchen.
 
 - **""**\
 Sucht nach dem genauen Text in Anführungszeichen z.B. "Katzen"\
@@ -85,51 +86,43 @@ Der Suchterm
 findet beispielsweise alle Tweets vom 05.01.2021 bis zum 07.01.2021 in einem Umkreis von 500 Metern um das US-Kapitol.
 Zu dem Zeitpunkt fand der [Sturm auf das Kapitol in Washington 2021](https://de.wikipedia.org/wiki/Sturm_auf_das_Kapitol_in_Washington_2021) statt.
 
-## Die erweiterte Suche
+### Die erweiterte Suche
 Unter [https://twitter.com/search-advanced](https://twitter.com/search-advanced) findet sich die erweiterte Twitter Suche.
 Damit können Nachrichten von beispielsweise einem spezifischen Account durchsucht werden.
 Es lässt sich auch nach einem Zeitraum oder Keywords filtern.
 Im Grunde einfach nur eine grafische Eingabemaske für die Suchoperatoren.
 
-## Video Download
-Mit [twdown.net](https://twdown.net/index.php) lassen sich einfach Videos aus einem Status herunterladen.
+### Inhalte
+Unter Einstellungen -> Datenschutz und Sicherheit -> Inhalte, die du siehst lassen sich einige interessante Einstellungen festlegen um besser/alle Inhalte zu finden.
+Generell lohnt es sich jede der gelisteten Einstellungen zu prüfen, nicht nur für die Suche sondern beispielsweise auch für die eigene Auffindbarkeit oder ähnliches.
+Unter dem Punkt Mitteilungen findet sich ebenfalls noch eine Filtereinstellung.
 
-## Metadaten
-Metadaten können sehr hilfreich sein. 
-Eine Analyse wann posts erstellt werden kann beispielsweise Rückschlüsse darauf zulassen, wann jemand normalerweise schläft.
-Mit dieser Information kann man beispielweise versuchen die Zeitzone herauszufinden.
-In Kombination mit Bildern kann man dann den Ort weiter eingrenzen, ebenso durch lokale Dialekte oder besonderheiten in der Sprache.
-Es lohnt sich immer auf solche Details zu schauen - welche weiteren Informationen bietet mir ein Tweet?
-Das ganze kann man unter dem Begriff Geosocial Footprint zusammenfassen.
-Für Twitter wären das Tweets mit Geoinformationen hinterlegt, Orte von denen Bilder gepostet werden, die Sprache, die Uhrzeit, Personen mit denen interagiert wird und so weiter.
-Ein Beispiel dazu wie das ganze aussehen kann findet sich in diesem [GitHub repo](https://github.com/x0rz/tweets_analyzer).
+### Metadaten
+Für Twitter wären Metadaten beispielsweise Tweets mit Geoinformationen hinterlegt, Orte von denen Bilder gepostet werden, die Sprache, die Uhrzeit, Personen mit denen interagiert wird und so weiter.
+Ein Beispiel dazu wie das ganze bezüglich Zeiten aussehen kann findet sich in diesem [GitHub repo](https://github.com/x0rz/tweets_analyzer).
 Weiter unten ist ein Bild mit den Aktivitäten nach Tag und Stunde.
 Am Beispiel lässt sich deutlich erkennen wann die Person normalwerweise schläft und wann sie Freizeit hat, sowie an welchen Tagen sie möglicherweise arbeitet.
 Ob das Projekt noch funktioniert habe ich noch nicht getestet, ich gehe jedoch nicht davon aus.
-Um zu sehen was beispielsweise noch alles möglich ist gibt es eine Spannende Abhandlung von Austin P. Logan von der [US Air University](https://www.airuniversity.af.edu/) mit dem Titel [Analysis of Twitter Networks to Aid Open Source Intelligence Capabilities: A Multilayer Network Approach](https://scholar.afit.edu/cgi/viewcontent.cgi?article=6350&context=etd).
 Generell gilt hier alles was auch normalerweise bei Metadatenanalyse zum Einsatz kommt.
 
-## Tweetmap
+### Tweetmap
 Auf [https://www.heavy.ai/demos/tweetmap](https://www.heavy.ai/demos/tweetmap) lassen sich Tweets zu Orten verfolgen.
 Man kann einfach nach einem Ort schauen und dann werden Tweets zu diesem Ort angezeigt.
 Ähnliche Funktionen bietet [https://onemilliontweetmap.com/](https://onemilliontweetmap.com/).
 
-## Trends
+### Trends
 Die Trends können ja nach Ort aufschluss zu wichtigen Ereignissen geben.
 Es kann zudem interessant sein die Entwicklung von Trends zu verfolgen.
 Mögliche Seiten dafür sind beispielsweise [https://trends24.in/germany/](https://trends24.in/germany/), die [Twitter Trends](https://twitter.com/i/trends) selbst oder auch Seiten wie [https://getdaytrends.com/de/germany/](https://getdaytrends.com/de/germany/) und [https://www.twitter-trending.com/germany/de](https://www.twitter-trending.com/germany/de).
 Entsprechend durch Auswahl auch für andere Länder verfügbar.
 
-## Weiteres
+### Weiteres
 Alle Techniken die bei einer normalen Recherche zum Einsatz kommen funktionieren hier natürlich auch.
 Profilbilder rückwärts suchen oder verlinkte Seiten ansehen beispielsweise. 
 
-### Twint
-This repository has been archived by the owner on Mar 30, 2023. It is now read-only. 
-{: .highlight }
+Um zu sehen was beispielsweise noch alles möglich ist gibt es auch eine Spannende Abhandlung von Austin P. Logan von der [US Air University](https://www.airuniversity.af.edu/) mit dem Titel [Analysis of Twitter Networks to Aid Open Source Intelligence Capabilities: A Multilayer Network Approach](https://scholar.afit.edu/cgi/viewcontent.cgi?article=6350&context=etd).
 
-Twint ist ein ziemlich nützliches Tool um Analysen auf Twitter durchzuführen.
-Das Projekt findet sich auf [GitHub](https://github.com/twintproject/twint).
-Jedoch wurde es am 30.03.2023 archiviert.
-Ich nehme an dass es mit den neuen [Einschränkungen](https://www.heise.de/news/Twitter-bestaetigt-1500-Tweets-kostenlos-100-US-Dollar-fuer-das-guenstigste-Abo-8239039.html) von Twitter zur Nutzung der API zu tun hat.
-Ob es eine Alternative mit der gleichen Funktionalität geben wird bleibt abzuwarten. 
+## Nitter
+[Nitter](https://nitter.net/) - ein alternatives Frontend für Twitter.
+Es ist etwas schneller und minimalistischer als das von Twitter bereitgestellte Frontend und bietet mehr Privacy.
+Zudem ist es möglich Inhalte zu lesen ohne mit einem Account angemeldet zu sein.
