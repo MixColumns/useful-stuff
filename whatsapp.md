@@ -1,9 +1,8 @@
 ---
 title: Whatsapp
 layout: default
-#parent: OSINT & ITS
-#grand_parent: Home
-parent: Home
+parent: OSINT & ITS
+grand_parent: Home
 nav_order: 1
 ---
 
