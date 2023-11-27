@@ -1,9 +1,8 @@
 ---
 title: Whatsapp
 layout: default
-parent: OSINT & ITS
-grand_parent: Home
-nav_order: 1
+parent: Socialmedia
+grand_parent: OSINT & ITS
 ---
 
 # Übersicht
@@ -14,6 +13,8 @@ nav_order: 1
 
 1. TOC
 {:toc}
+
+# Whatsapp
 
 ## Suchen und Analysieren
 
@@ -34,7 +35,5 @@ Es kann auch hier wieder interessant sein, wann ein Nutzer online ist.
 Das ganze konstant zu überwachen setzt etwas mehr technisches können vorraus.
 Auf GitHub gibt es dazu einige Projekte und scheinbar gibt es auch einige kommerzielle Anbieter die sich dem Thema gewidmet haben.
 
-### IP
-Auch hier ist es natürlich möglich eine eigene Website zu basteln die einen IP-logger eingebaut hat (im Grunde jeder Webhoster bei dem man auf die Logfiles zugreifen kann bietet dies von Haus aus).
-Wenn man jemanden den Link zusendet und dieser angeklickt wird, hat man, falls keine VPN genutzt wird die IP des Nutzers.
-Dies kann sowohl für die Geoinformationen als auch für Strafverfolgung interessant sein.
+## Fake Chatverlauf
+Mit [fakewhats.com](https://www.fakewhats.com/generator) kann man sich recht leicht einen fake Chatverlauf erstellen.

@@ -1,9 +1,8 @@
 ---
 title: Twitter | X
 layout: default
-parent: OSINT & ITS
-grand_parent: Home
-nav_order: 1
+parent: Socialmedia
+grand_parent: OSINT & ITS
 ---
 
 # Übersicht
@@ -18,24 +17,10 @@ nav_order: 1
 # Twitter
 
 ## Archivieren
-Je nachdem ob die Informationen nur zur weiteren Suche gespeichert oder beispielsweise zum Melden einer Straftat genutzt werden sollen gibt es unterschiedliche Ansprüche.
-
-### Für Analysezwecke:
-- Bilder lassen sich einfach herunterladen.
-- Videos können mit Tools wie weiter unten heruntergeladen werden.
-- Screenshots können Beispielsweise über die [eingebaute Screenshot Funktion von Firefox](https://support.mozilla.org/en-US/kb/take-screenshots-firefox) aufgenommen werden, selbst Inhalte, die auf der Seite weiter unten außerhalb des Bildschirmbereichs sind.
-
-### Zum Melden von Straftaten:
-- Screenshots haben nur bedingte Aussagekraft, da der Inhalt der Website/Bilder einfach geändert werden kann.
-Um Screenshots zu speichern eignet sich [Snipping Tool](https://support.microsoft.com/de-de/windows/aufnehmen-von-screenshots-mithilfe-des-snipping-tools-00246869-1843-655f-f220-97299b865f6b) und die Screenshot [Funktion über die "Druck" Taste](https://www.dell.com/support/kbdoc/de-de/000147539/anleitung-zur-verwendung-der-drucktaste-in-microsoft-windows-betriebssystemen).
-- Zusätzlich zum Inhalt sollten Uhrzeit, URL und Kontext ersichtlich sein.
-- Den Nutzernamen und die ID des Tweet zu speichern ist ebenfalls empfehlenswert.
-Die ID wird in der Adresszeile des Browser angezeigt. Um einen Tweet einzeln zu öffnen beispielsweise auf die Uhrzeit klicken.
-- Die Plattform [Netzbeweis](https://www.netzbeweis.com/web/) kann dabei helfen Inhalte zu Sichern.
-Dafür die URL einfügen und die eigene Email angeben, dann kann ein Report mit Bildern und den wichtigen Informationen kurze Zeit später heruntergeladen werden.
+Das generell Vorgehen zum archivieren wird bereits unter [socialmedia]({% link socialmedia.md %}) erklärt.
 
 ### Videos herunterladen
-Mit [twdown.net](https://twdown.net/index.php) lassen sich einfach Videos aus einem Status herunterladen.
+Mit [twdown.net](https://twdown.net/index.php) lassen sich einfach Videos aus einem Tweet herunterladen.
 
 ## Suchen und Analysieren
 
@@ -115,18 +100,8 @@ Es kann zudem interessant sein die Entwicklung von Trends zu verfolgen.
 Mögliche Seiten dafür sind beispielsweise [https://trends24.in/germany/](https://trends24.in/germany/), die [Twitter Trends](https://twitter.com/i/trends) selbst oder auch Seiten wie [https://getdaytrends.com/de/germany/](https://getdaytrends.com/de/germany/) und [https://www.twitter-trending.com/germany/de](https://www.twitter-trending.com/germany/de).
 Entsprechend durch Auswahl auch für andere Länder verfügbar.
 
-### IP
-Auch hier ist es natürlich möglich eine eigene Website zu basteln die einen IP-logger eingebaut hat (im Grunde jeder Webhoster bei dem man auf die Logfiles zugreifen kann bietet dies von Haus aus).
-Wenn man jemanden den Link zusendet und dieser angeklickt wird, hat man, falls keine VPN genutzt wird die IP des Nutzers.
-Dies kann sowohl für die Geoinformationen als auch für Strafverfolgung interessant sein.
-
 ### Weiteres
 Alle Techniken die bei einer normalen Recherche zum Einsatz kommen funktionieren hier natürlich auch.
 Profilbilder rückwärts suchen oder verlinkte Seiten ansehen beispielsweise. 
 
 Um zu sehen was beispielsweise noch alles möglich ist gibt es auch eine Spannende Abhandlung von Austin P. Logan von der [US Air University](https://www.airuniversity.af.edu/) mit dem Titel [Analysis of Twitter Networks to Aid Open Source Intelligence Capabilities: A Multilayer Network Approach](https://scholar.afit.edu/cgi/viewcontent.cgi?article=6350&context=etd).
-
-## Nitter
-[Nitter](https://nitter.net/) - ein alternatives Frontend für Twitter.
-Es ist etwas schneller und minimalistischer als das von Twitter bereitgestellte Frontend und bietet mehr Privacy.
-Zudem ist es möglich Inhalte zu lesen ohne mit einem Account angemeldet zu sein.

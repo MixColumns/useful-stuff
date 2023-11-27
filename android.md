@@ -1,8 +1,7 @@
 ---
 title: Android
 layout: default
-parent: Home
-nav_order: 2
+#parent: Home
 ---
 
 # Übersicht

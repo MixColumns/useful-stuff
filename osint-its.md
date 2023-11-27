@@ -1,8 +1,7 @@
 ---
 title: OSINT & ITS
 layout: default
-parent: Home
-nav_order: 2
+#parent: Home
 has_children: true
 ---
 
