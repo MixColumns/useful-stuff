@@ -51,6 +51,7 @@ layout: default
 * [Every Noise at Once](https://everynoise.com/) - Uses machine learning to map known genres and creates playlists for each genre and the most common artists of that genre. Preview listening and Spotify playlists available, great to find new music
 * [Trancebase.fm](https://www.trancebase.fm/) - German webradio with nice shows and multiple senders like technobase housetime coretime or hardbase
 * [Radiorecord.ru](https://www.radiorecord.ru/) - Great russian webradio with lots of different genres, "Innocence" is really good
+* [di.fm](https://www.di.fm/) - 'DI.FM - addictive electronic music'
 
 # Office
 * [useplaintext.email](https://useplaintext.email/) - Use plaintext email
